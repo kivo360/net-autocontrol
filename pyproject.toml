@@ -6,6 +6,8 @@ authors = ["Kevin H. <kevin@autoworkz.org>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+tweepy = "^4.10.0"
+cgroupspy = "^0.2.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
