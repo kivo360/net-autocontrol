@@ -2,6 +2,8 @@
 
 Automatically configure the networks. By the end of the project, you will understand the basics of software-defined networking.
 
+1. How networking works.
+
 
 ## What we're doing:
 
@@ -20,7 +22,7 @@ Automatically configure the networks. By the end of the project, you will unders
 I will be looking for something during this project. I will primarily look for:
 
 1. Understanding of operating systems and networking (from the mocker container project).
-2. Code written as proof of understanding.
+Code is written as proof of understanding.
 3. Interact with different networking devices (using our project)
 
 ## Important Links
