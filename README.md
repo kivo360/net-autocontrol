@@ -70,4 +70,7 @@ root_dir="/home/apast/git"
 base_dir="someproject"
 ```
 
-If the contents of your tree is like following, for example: /home/apast/git/someproject/test.py /home/apast/git/someproject/model.py
+If the contents of your tree is like following, for example:
+
+1. `/home/apast/git/someproject/test.py` vs.
+2. `/home/apast/git/someproject/model.py`
