@@ -43,12 +43,13 @@ Your job is to recreate the functionality of the `images.py` file (located [here
 1. Understand what the file is doing.
    1. What does [list_images](https://github.com/tonybaloney/mocker/blob/bffd33fb0abcce358ffea3e330ac43a6fd72c174/mocker/images.py#L15) do?
 2. Convert the file manipulation within the file from `os` to `pathlib`.
+   - What does it do?
 
 ## Frequently Asked Questions
 
 Here are questions people may ask about coding in general.
 
-### What is the difference between the root and base directory? 
+### What is the difference between the `root` and `base` directory? 
 
 Source material [here](https://stackoverflow.com/questions/33333711/what-is-difference-between-root-and-base-directory).
 
