@@ -49,6 +49,14 @@ Your job is to recreate the functionality of the `images.py` file (located [here
 
 ![what images looks like](imgs/images_example.png)
 
+#### Important Things To Understand:
+
+1. What is an image?
+2. What is a JSON file?
+3. How do I open a json file?
+4. How do I read json?
+5. How to do important things with json data?
+
 #### How to Write Tables:
 
 You can use the tool [rich](https://rich.readthedocs.io/en/latest/tables.html) to write modern tables for this assignment if you want. Its also possible to write tables from scratch. 
