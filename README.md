@@ -76,7 +76,7 @@ console.print(table)
 
 
 
-![what images looks like](imgs/images_example.png)
+![what images looks like](imgs/tables.png)
 
 ## Frequently Asked Questions
 
