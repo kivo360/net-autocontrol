@@ -6,11 +6,10 @@ from loguru import logger, logger as log
 
 
 def main():
-    # dir_items =
-    # resulting = os.path.join(f"file/location/sofar", "layers", "layerz", "lay")
-    # logger.warning(resulting)
+    dir_items = resulting = os.path.join(f"file/location/sofar", "hello_world_2", "poetry.lock")
+    logger.warning(resulting)
 
-    # f"file/location/sofar/layers"
+    f"file/location/sofar/layers"
     for image_file in os.listdir("."):
         if image_file.endswith(".json"):
             with open(image_file) as f:
