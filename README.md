@@ -5,7 +5,9 @@ Automatically configure the networks. By the end of the project, you will unders
 1. How networking works.
 
 
-## What we're doing:
+## What we're doing?:
+
+To further teach Python programming we'll dive into basic networking programming. We will do the following:
 
 1. Writing an example mock docker container
    1. We manage the networking and resources for a mock docker container.
@@ -41,9 +43,11 @@ Code is written as proof of understanding.
 Your job is to recreate the functionality of the `images.py` file (located [here](https://github.com/tonybaloney/mocker/blob/bffd33fb0abcce358ffea3e330ac43a6fd72c174/mocker/images.py)).
 
 1. Understand what the file is doing.
-   1. What does [list_images](https://github.com/tonybaloney/mocker/blob/bffd33fb0abcce358ffea3e330ac43a6fd72c174/mocker/images.py#L15) do?
+   - What does [list_images](https://github.com/tonybaloney/mocker/blob/bffd33fb0abcce358ffea3e330ac43a6fd72c174/mocker/images.py#L15) do?
 2. Convert the file manipulation within the file from `os` to `pathlib`.
    - What does it do?
+
+![what images looks like](imgs/images_example.png)
 
 ## Frequently Asked Questions
 

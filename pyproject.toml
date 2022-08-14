@@ -5,13 +5,16 @@ description = ""
 authors = ["Kevin H. <kevin@autoworkz.org>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = ">=3.8, <4.0"
 tweepy = "^4.10.0"
 cgroupspy = "^0.2.2"
 nsenter = "^0.2"
+loguru = "^0.6.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
+mypy = "^0.971"
+black = {version = "^22.6.0", allow-prereleases = true}
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
